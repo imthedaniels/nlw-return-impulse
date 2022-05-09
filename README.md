@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Express
 - SQLite
 
-## :hammer_and_wrench: Features
+## 🛠️ Features
 
 -   [ ] Autenticação Social OAuth2 com servidor do Discord.
 -   [ ] Obtém perfil do usuário cadastro no Discord (username e avatar);
