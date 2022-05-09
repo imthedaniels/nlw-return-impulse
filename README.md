@@ -25,19 +25,34 @@
 
 ## ✨ Projeto
 
-O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
+FeedGet se trata de um widget para envio de feedbacks, desenvolvido para ser utilizado em quaisquer outras aplicações, possibilita ao usuário o envio de uma sugestão, ideia ou até mesmo um bug, não só em texto, mas também com uma captura automática de tela.
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
-- NodeJS
-- EJS
-- Express
-- SQLite
+<table border="0">
+ <tr>
+<td> HTML</td>
+<td> CSS</td>
+<td> JavaScript</td>
+<td> React.JS</td>
+<td> React Native</td>
+<td> NodeJS</td>
+<td> Prisma</td>
+<td> Express</td>
+ </tr>
+ <tr>
+<td>SQLite</td>
+<td> PostgreSQL</td>
+<td> Expo</td>
+<td> TypeScript</td>
+<td> Vite</td>
+<td> Phosphor Icons</td>
+<td> Axios</td></td>
+<td> Jest</td>
+ </tr>
+</table>
 
 ## 🌟 Features
 
