@@ -23,7 +23,7 @@
   <img alt="Rocket.Q" src=".github/capa.png" width="100%">
 </p>
 
-## 💻 Projeto
+## ✨ Projeto
 
 O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
 
@@ -51,7 +51,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -   [ ] Permite redirecionar o usuário para o seu próprio servidor;
 -   [ ] Disponibiliza a função de Logout.
 
-## 🔖 Layout
+## 🎨 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1009821158959690135/Roquet.q). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
