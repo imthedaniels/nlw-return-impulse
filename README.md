@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="FeedGet" src=".github/preview.png" width="100%">
 </h1>
-
+<br>
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,12 +11,16 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/license/imthedaniel/nlw-return-impulse?style=for-the-badge" alt="Licenses" />
-  <img  src="https://img.shields.io/github/languages/count/imthedaniel/nlw-return-impulse" alt="Languages">
-</p>
-
 <br>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/website?down_message=offline&logo=vercel&style=for-the-badge&up_message=online&url=https%3A%2F%2Fnlw-return-impulse-tawny-rho.vercel.app%2F&labelColor=d1bdff&logoColor=black" alt="Server Status">
+  <img src="https://img.shields.io/github/last-commit/imthedaniel/nlw-return-impulse?style=for-the-badge&color=7141e2&labelColor=d1bdff" alt="Languages">
+  <img src="https://img.shields.io/github/languages/count/imthedaniel/nlw-return-impulse?style=for-the-badge&color=7141e2&labelColor=d1bdff" alt="Languages">
+  <img src="https://img.shields.io/github/license/imthedaniel/nlw-return-impulse?style=for-the-badge&color=7141e2&labelColor=d1bdff" alt="Licenses" />
+</p>
 
 <p align="center">
   <a href="https://nlw-return-impulse-tawny-rho.vercel.app/">Clique aqui</a> para acessar a versão web
