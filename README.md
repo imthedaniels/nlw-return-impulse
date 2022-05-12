@@ -56,7 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🌟 Features
 
--   [ ] Categorias de feedbacks, sendo possível adicionar/remover novas de forma fácil.
+-   [ ] Categorias de feedbacks, sendo possível adicionar/remover de forma fácil.
 -   [ ] 100% responsivo em resoluções até 4k.
 -   [ ] Notificação de novos feedbacks via e-mail.
 -   [ ] Captura de tela automática, sem a necessidade de salvar uma imagem.
