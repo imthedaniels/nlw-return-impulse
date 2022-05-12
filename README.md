@@ -64,7 +64,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -   [ ] Notificação de novos feedbacks via e-mail.
 -   [ ] Captura de tela automática, sem a necessidade de salvar uma imagem.
 -   [ ] Versões Web (React) e Mobile (React Native) disponível em Android ou iOS.
--   [ ] Projeto 100% acessível, sendo possível por exemplo, utilizá-lo somente pelo teclado, entre outras funções de acessibilidade.
+-   [ ] Projeto 100% acessível sendo possível por exemplo, utilizá-lo somente pelo teclado, entre outras funções de acessibilidade.
 
 ## 🎨 Layout
 
