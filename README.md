@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/website?down_message=offline&logo=vercel&style=for-the-badge&up_message=online&url=https%3A%2F%2Fnlw-return-impulse-tawny-rho.vercel.app%2F&labelColor=d1bdff&logoColor=black" alt="Server Status">
   <img src="https://img.shields.io/github/last-commit/imthedaniel/nlw-return-impulse?style=for-the-badge&color=7141e2&labelColor=d1bdff" alt="Languages">
   <img src="https://img.shields.io/github/languages/count/imthedaniel/nlw-return-impulse?style=for-the-badge&color=7141e2&labelColor=d1bdff" alt="Languages">
-  <img src="https://img.shields.io/github/license/imthedaniel/nlw-return-impulse?style=for-the-badge&color=7141e2&labelColor=d1bdff" alt="Licenses" />
+  <img src="https://img.shields.io/github/license/imthedaniel/nlw-return-impulse?style=for-the-badge&labelColor=d1bdff&color=7141e2" alt="Licenses" />
 </p>
 
 <p align="center">
