@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src=".github/rocketq.png" width="220px" />
+  <img alt="FeedGet" src=".github/preview.png" width="100%">
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src=".github/capa.png" width="100%">
+  <a href="#memo-licença">Clique aqui</a> para acessar a versão web
 </p>
 
 ## ✨ Projeto
