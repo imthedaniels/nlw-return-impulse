@@ -20,12 +20,12 @@
 <br>
 
 <p align="center">
-  <a href="https://nlw-return-impulse-tawny-rho.vercel.app/" target="_blank">Clique aqui</a> para acessar a versão web
+  <a href="https://nlw-return-impulse-tawny-rho.vercel.app/">Clique aqui</a> para acessar a versão web
 </p>
 
 ## ✨ Projeto
 
-FeedGet se trata de um widget para envio de feedbacks, desenvolvido para ser utilizado em quaisquer outras aplicações, possibilita ao usuário o envio de uma sugestão, ideia ou até mesmo um bug, não só em texto, mas também com uma captura automática de tela.
+FeedGet é um aplicativo de feedbacks, desenvolvido 100% responsivo para ser integrado a qualquer aplicação web ou mobile. O usuário consegue além de escolher a categoria de seu feedback, também pode enviar uma mensagem personalizada junto a uma captura de tela automática. O administrador da aplicação recebe os feedbacks via-e-mail.
 
 ## 🚀 Tecnologias
 
@@ -43,7 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <td> Express</td>
  </tr>
  <tr>
-<td>SQLite</td>
+<td> SQLite</td>
 <td> PostgreSQL</td>
 <td> Expo</td>
 <td> TypeScript</td>
@@ -56,19 +56,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🌟 Features
 
--   [ ] Autenticação Social OAuth2 com servidor do Discord.
--   [ ] Obtém perfil do usuário cadastro no Discord (username e avatar);
--   [ ] Lista os servidores do Discord que o usuário faz parte;
--   [ ] Permite realizar o agendamento de partidas;
--   [ ] Permite filtrar as partidas por categoria;
--   [ ] Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servidores de outros (convidado);
--   [ ] Compartilha o convite para ingressar no servidor do usuário;
--   [ ] Permite redirecionar o usuário para o seu próprio servidor;
--   [ ] Disponibiliza a função de Logout.
+-   [ ] Categorias de feedbacks, sendo possível adicionar/remover novas de forma fácil.
+-   [ ] 100% responsivo em resoluções até 4k.
+-   [ ] Notificação de novos feedbacks via e-mail.
+-   [ ] Captura de tela automática, sem a necessidade de salvar uma imagem.
+-   [ ] Versões Web (React) e Mobile (React Native) disponível em Android ou iOS.
+-   [ ] Projeto 100% acessível, sendo possível por exemplo, utilizá-lo somente pelo teclado, entre outras funções de acessibilidade.
 
 ## 🎨 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1009821158959690135/Roquet.q). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/Wvro4wRJXn4Onm9GHX5DFi/Feedback-Widget-(Community)?node-id=100%3A3925). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 👨🏻‍💻 Executando o projeto
 
