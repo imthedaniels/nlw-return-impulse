@@ -72,19 +72,19 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
 Em seguida, inicie o projeto.
 
+Iniciando a versão web:
+
+```cl
+yarn start ou npm run dev
+```
+
+Iniciando a versão mobile:
+
 ```cl
 expo start
 ```
 
-Lembre-se de criar o seu App no servidor do Discord para obter as credencias de autenticação. Em seguida, defina no arquivo .env as configurações do seu App (remova o example do arquivo .env.example).
- 
- ```cl
-REDIRECT_URI=
-SCOPE=
-RESPONSE_TYPE=
-CLIENT_ID=
-CDN_IMAGE=
-```
+
 
 ## :memo: Licença
 
