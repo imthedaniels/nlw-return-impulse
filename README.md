@@ -12,9 +12,8 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/imthedaniel/nlw-return-impulse">
+  <img src="https://img.shields.io/github/license/imthedaniel/nlw-return-impulse?style=for-the-badge" alt="Licenses" />
+  <img  src="https://img.shields.io/github/languages/count/imthedaniel/nlw-return-impulse" alt="Languages">
 </p>
 
 <br>
