@@ -51,7 +51,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <td> Expo</td>
 <td> TypeScript</td>
 <td> Vite</td>
-<td> Phosphor Icons</td>
+<td> Tailwind</td>
 <td> Axios</td></td>
 <td> Jest</td>
  </tr>
