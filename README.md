@@ -32,7 +32,7 @@ FeedGet é um aplicativo de feedbacks, desenvolvido 100% responsivo para ser int
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias/bibliotecas:
 
 <table border="0">
  <tr>
