@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias/bibliotecas:
  <tr>
 <td> HTML5</td>
 <td> CSS3</td>
-<td> JavaScript</td>
+<td> Typescript</td>
 <td> React.JS</td>
 <td> React Native</td>
 <td> NodeJS</td>
